@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ramiz Raja, a tech lover who started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business
+I'm Ramiz Raja, a tech lover who started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
 
 
 <!--
